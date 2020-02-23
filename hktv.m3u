@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTINF:-1 group-title="未分类",凤凰中文
+http://liveali.ifeng.com/live/FHZW.m3u8
+#EXTINF:-1 group-title="未分类",凤凰中文
+http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8
+#EXTINF:-1 group-title="未分类",凤凰资讯官方
+http://liveali.ifeng.com/live/FHZX.m3u8
+#EXTINF:-1 group-title="未分类",博斯魅力
+http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
+#EXTINF:-1 group-title="未分类",阳光卫视
+http://121.31.30.90:8085/ysten-business/live/yangguangstv/yst.m3u8
+#EXTINF:-1 group-title="未分类",香港卫视 HKS
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 group-title="未分类",TVB无线新闻台
+http://www.liveviptv.xyz/tv/tvb.php
+#EXTINF:-1 group-title="未分类",无线财经资讯台
+http://prdsecurelive.ainemo.com/live/234cjcj.m3u8
+#EXTINF:-1 group-title="未分类",新加坡新传媒8频道
+https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
+#EXTINF:-1 group-title="未分类",香港映嘉娱乐MiaoMi-TV
+http://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
+#EXTINF:-1 group-title="未分类",台湾全美電視
+https://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
+#EXTINF:-1 group-title="未分类",澳门卫星频道
+http://61.244.22.4/ch3/ch3.live/playelist.m3u8
+#EXTINF:-1 group-title="未分类",澳门卫视
+http://stream.mastvnet.com/MSTV/SD/live.m3u8
+#EXTINF:-1 group-title="未分类",澳门莲花
+http://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c.m3u8
+#EXTINF:-1 group-title="未分类",澳亚卫视
+http://stream.mastvnet.com/MASTV/sd/live.m3u8
+#EXTINF:-1 group-title="未分类",新唐人亚太台
+https://live.ntdimg.com/aplive200/playlist.m3u8
+#EXTINF:-1 group-title="未分类",新唐人美东台
+https://live.ntdimg.com/live400/playlist.m3u8
+#EXTINF:-1 group-title="未分类",新唐人美西台
+https://live.ntdimg.com/uwlive990/playlist.m3u8
+#EXTINF:-1 group-title="未分类",新唐人美西台
+https://live.ntdimg.com/uwlive520/playlist.m3u8
+#EXTINF:-1 group-title="未分类",新唐人加东台
+https://live.ntdimg.com/mllive860/playlist.m3u8
+#EXTINF:-1 group-title="未分类",新唐人加东台
+https://live.ntdimg.com/mllive220/playlist.m3u8
+#EXTINF:-1 group-title="未分类",全美电视台AAT TV
+http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
